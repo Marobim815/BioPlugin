@@ -1,0 +1,5 @@
+name: BioPlugin
+version: '1.0'
+main: com.io.github.marobim815.bio.BioPlugin
+api-version: '1.21'
+authors: [ marobim815 ]
